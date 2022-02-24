@@ -1,5 +1,6 @@
 # HTTP_Server
-uSE this links to run
+Use this links to run                                                                          
+
 1-http://localhost:1000/aboutus2.html(should display aboutus2.html page)
 2-http://localhost:1000/aboutus.html(should display aboutus2.html (redirection))
 3-http://localhost:1000/main.html(should display main page)
